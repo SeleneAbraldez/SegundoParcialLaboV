@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SPAbraldez</string>
+    <string name="title">Segundo Parcial</string>
+    <string name="buscar">buscar</string>
+    <string name="opcion_1">agregar contacto</string>
+    <string name="hintNombre">Juan</string>
+    <string name="Guardar" />
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="editName">Nuevo Contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="hintTelefono">1234567890</string>
+    <string name="telefono">Telefono</string>
+    <string name="ok">ok</string>
+    <string name="encontrada">Persona Encontrada</string>
+    <string name="noEncontrada">No encontrada</string>
+    <string name="msgEncontrada">El telefono es</string>
+    <string name="msgNoEncontrada">La persona que busco no esta dentro de la lista</string>
+    <string name="noContactos">Error</string>
+    <string name="msgNoContactos">No tiene contactos agendados!</string>
+</resources>
