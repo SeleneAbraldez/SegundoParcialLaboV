@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
             DialogEsEncontrada dialog = new DialogEsEncontrada(getString(R.string.noContactos), getString(R.string.msgNoContactos), true);
             dialog.show(getSupportFragmentManager(), "nulo");
         } else {
-            query = query.toLowerCase();
             query = query.substring(0, 1).toUpperCase() + query.substring(1).toLowerCase();
 
             for (int i = 0; i < this.jsonArray.length(); i++) {
